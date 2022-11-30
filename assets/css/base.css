@@ -76,6 +76,7 @@ nav a {
 .container {
   max-width: 1440px;
   padding: 0px 103px 0px 82px;
+  margin: 0 auto;
 }
 
 .navbar {
